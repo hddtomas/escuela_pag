@@ -1,0 +1,73 @@
+@media(max-width:1000px){
+    nav ul{
+        display: block;
+    }
+
+    nav ul li{
+        padding-top: 0.3em;
+    }
+
+    .titulo{
+        text-align: center;
+        margin: 0;
+        padding-bottom: 2em;
+    }
+
+    #subtitulo{
+        text-align: center;
+        margin: 0;
+        margin-top: -1em;
+    }
+    
+    .container{
+        display: block;
+    }
+    
+    .contactos{
+        gap: 1em;
+    }
+
+    .contactogeneral{
+        padding-bottom: 1em;
+        max-width: 250px;
+    }
+
+    .contactogeneral button{
+        margin: 0;
+    }
+
+    .container2{
+        display: block;
+    }
+
+    .bloque{
+        margin: auto;
+        max-width: 400px;
+        margin-top: 1em;
+    }
+
+    .contactos{
+        display: block;
+    }
+
+    #barrita{
+        height: 100px;
+    }
+
+    .iniciobloque{
+        display: block;
+    }
+
+    .iniciobloque img{
+        display: block;
+        margin: auto;
+        border-left: none;
+        border-top: 6px solid rgb(177, 174, 174);
+        padding: 0;
+        padding-top: 1em;
+    }
+
+    .iniciobloque p{
+        padding-top: 0;
+    }
+}
